@@ -53,18 +53,12 @@ and **Material 3** — including edge-to-edge layout, dynamic theming and shared
 
 ## 🖼 Screenshots
 
-<!-- Drop your screenshots in docs/screenshots/ and uncomment the block below:
-
 <div align="center">
-  <img src="docs/screenshots/home.png" width="220" alt="Home" />
-  <img src="docs/screenshots/explore.png" width="220" alt="Explore" />
-  <img src="docs/screenshots/detail.png" width="220" alt="Manga detail" />
-  <img src="docs/screenshots/reader.png" width="220" alt="Reader" />
+  <img src="docs/screenshots/home.jpg" width="220" alt="Home feed with trending banner" />
+  <img src="docs/screenshots/detail.jpg" width="220" alt="Manga detail" />
+  <img src="docs/screenshots/chapters.jpg" width="220" alt="Chapter list" />
+  <img src="docs/screenshots/reader.jpg" width="220" alt="Reader" />
 </div>
-
--->
-
-*Screenshots coming soon — contributions are welcome.*
 
 ---
 
